@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvyanneE
 - 👀 I’m interested in software development and cyber security
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently learning more about software engineering
 - 💞️ I’m looking to collaborate on any begineers projects
 - 📫 Reach me at evyanne83@gmail.com
 
