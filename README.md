@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NewCode321
-- 👀 I’m interested in webdevelopment and cybersecurity
+- 👀 I’m interested in software development and cyber security
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on any begineers projects
 - 📫 How to reach me ...
